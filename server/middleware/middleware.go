@@ -14,7 +14,7 @@ import (
 	"server/models"
 )
 
-const connectionString = "mongodb+srv://admin:194258305avci@clustertodo.fib6x.mongodb.net/ToDoGo?retryWrites=true&w=majority"
+const connectionString = "mongodb+srv://admin:yourmongopassword@clustertodo.fib6x.mongodb.net/ToDoGo?retryWrites=true&w=majority"
 const dbName = "test"
 const collName = "todolist"
 
