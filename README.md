@@ -1,7 +1,9 @@
 # to-do-app-go
 
 Server : Golang
+
 Front-End:React
+
 Database:MongoDB
 
 Önce Paketlerimizi ekleyelim
