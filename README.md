@@ -8,8 +8,10 @@ Database:MongoDB
 
 Önce Paketlerimizi ekleyelim
 
+
 go get go.mongodb.org/mongo-driver
 go get -u github.com/gorilla/mux
+
 
 
 Middleware Kısmındaki MongoDB Bağlantı adresini kendi bağlantınız ile Değiştirin
